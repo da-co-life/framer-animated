@@ -6,3 +6,4 @@
 |------|---|
 | Framer Motion | https://www.framer.com/docs/|
 |React|https://ko.reactjs.org/docs/getting-started.html|
+| open API | https://developers.themoviedb.org/ | 
