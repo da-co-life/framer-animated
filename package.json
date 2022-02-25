@@ -1,0 +1,23 @@
+{
+  "name": "framer-animated-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "framer-motion": "^6.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiminwoo/framer-animated-filter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiminwoo/framer-animated-filter/issues"
+  },
+  "homepage": "https://github.com/Kiminwoo/framer-animated-filter#readme"
+}
