@@ -1,4 +1,4 @@
->  ** framer-animated-slider ** 
+** framer-animated-slider ** 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/33905149/155452231-32f31083-9dbf-4307-9d5f-f67442c36be8.gif)
 
@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-> ** framer-animated-filter-emotion **  
+** framer-animated-filter-emotion **  
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/33905149/155065904-ec3f329b-8704-477d-8f89-cc746cff1536.gif)
 
