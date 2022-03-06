@@ -20,3 +20,16 @@
 | Framer Motion | https://www.framer.com/docs/|
 |React|https://ko.reactjs.org/docs/getting-started.html|
 | open API | https://developers.themoviedb.org/ | 
+
+<br/>
+<br/>
+
+**framer-animated-sidebar**  
+
+![bandicam 2022-03-06 16-22-59-139](https://user-images.githubusercontent.com/33905149/156913491-0dbefaf3-6334-4ee0-b067-4f8aad430a6a.gif)
+
+| 레퍼런스 | URL |
+|------|---|
+| Framer Motion | https://www.framer.com/docs/|
+|React|https://ko.reactjs.org/docs/getting-started.html|
+
