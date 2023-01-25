@@ -17,10 +17,17 @@ function App() {
 
 
   const fetchPopular = async () => {
-    const data = await fetch("https://api.themoviedb.org/3/movie/popular?api_key=34163d7ea9fbd06f7babbb2ce6e7363d&language=en-US&page=1");
-    const movies = await data.json();
-    setPopular(movies.results);
-    setFiltered(movies.results);
+    for(let loop = 1 ; loop < 10 ; loop ++){
+      const data = await fetch("https://api.themoviedb.org/3/movie/popular?api_key=34163d7ea9fbd06f7babbb2ce6e7363d&language=en-US&page="+loop);    
+      const movies = await data.json();
+      setPopular((popular)=>{
+        return[...popular , ...movies.results]
+      });
+
+      setFiltered((filtered)=>{
+        return [...filtered , ...movies.results];
+      });
+    }
   };
 
   return (
